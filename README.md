@@ -1,2 +1,3 @@
 # Carbon-Calculator
 Carbon Calculator Completed Fall 2024
+This carbon calculator emphasizes transparency, accuracy, and location dependency. Transparency was achieved through easily accessible sources and visible calculations. The accuracy of this calculator relates to the use of credible sources such as Environment and Climate Change Canada and the United States Environmental Protection Agency. Finally, location dependency was an essential aspect of this calculator as distinct locations will have variation in energy sources leading to significant differences in emissions. This calculator allows provincial and territorial specificity to obtain a more accurate result compared to other public carbon calculators. 
